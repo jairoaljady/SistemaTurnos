@@ -1,0 +1,95 @@
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.Cache
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.Cache
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+D:\RJ Code Advance\Proyectos y DBs 2019\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.test.FormMenuPrincipal.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.test.FormMenuPrincipal.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\MySql.Data.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.CopyComplete
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\BibliotecaDeClases.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\Google.Protobuf.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\Zstandard.Net.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\Renci.SshNet.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\System.Memory.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\MySql.Data.xml
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.login.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaConsult_Pagos.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaDocumentacion.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaTramites.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.desarrolladores.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form_Mostrar_Turnos.resources
+C:\Users\usuario\Desktop\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.simulador.resources
